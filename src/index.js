@@ -13,7 +13,7 @@ const routes = {
   ["k8s-gcr." + CUSTOM_DOMAIN]: "https://k8s.gcr.io",
   ["k8s." + CUSTOM_DOMAIN]: "https://registry.k8s.io",
   ["ghcr." + CUSTOM_DOMAIN]: "https://ghcr.io",
-  ["cloudsmith." + CUSTOM_DOMAIN]: "https://docker.cloudsmith.io",
+  ["nvcr." + CUSTOM_DOMAIN]: "https://nvcr.io",
   ["ecr." + CUSTOM_DOMAIN]: "https://public.ecr.aws",
 
   // staging
