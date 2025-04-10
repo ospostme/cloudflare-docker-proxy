@@ -15,6 +15,7 @@ const routes = {
   ["ghcr." + CUSTOM_DOMAIN]: "https://ghcr.io",
   ["nvcr." + CUSTOM_DOMAIN]: "https://nvcr.io",
   ["ecr." + CUSTOM_DOMAIN]: "https://public.ecr.aws",
+  ["juju." + CUSTOM_DOMAIN]: "https://registry.jujucharms.com",
 
   // staging
   ["docker-staging." + CUSTOM_DOMAIN]: dockerHub,
